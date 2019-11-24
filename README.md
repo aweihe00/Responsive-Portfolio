@@ -29,3 +29,7 @@ Minimum Requirements
 Functional, deployed application
 
 GitHub repository with README describing the project
+
+![capture](https://user-images.githubusercontent.com/56567819/69487405-e1e65d80-0e1e-11ea-807a-3b47e2e88eb4.png)
+
+![capturen](https://user-images.githubusercontent.com/56567819/69487415-02161c80-0e1f-11ea-9eb6-10d4e15191b6.png)
