@@ -2,7 +2,7 @@
 
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Directions:
+## Directions:
 
 First, you will use the Bootstrap CSS Framework to recreate your portfolio. How do you deliver this? Here are some guidelines:
 1. Create the following pages: index.html, portfolio.html and contact.html.
